@@ -4,7 +4,7 @@
 ## deploy проекта 
 
         git clone https://github.com/SladkayaBulka/django.git
-        cd delivery 
+        cd django/delivery/
         ./deploy
 ## запуск сервера 
 
